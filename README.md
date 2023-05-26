@@ -1,6 +1,6 @@
 # CameraApp
 
-
+https://imgur.com/a/sfCp8iu
 
 
 Webcam Initialization and Image Capture:
