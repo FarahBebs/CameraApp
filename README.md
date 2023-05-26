@@ -1,7 +1,8 @@
 # CameraApp
 
 https://imgur.com/a/sfCp8iu
-
+![My Image](![undefined - Imgur](https://github.com/FarahBebs/CameraApp/assets/95434104/ffc2d68b-1050-4d22-9aeb-bfe5a271488c)
+)
 
 Webcam Initialization and Image Capture:
 
