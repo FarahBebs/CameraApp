@@ -30,3 +30,16 @@ Imgur Image Upload:
 The uploadToImgur method uploads the filtered image to Imgur using the Imgur API.
 It reads the image file, encodes it as Base64, and sends an HTTP POST request to the Imgur API endpoint.
 The response is parsed to extract the uploaded image link.
+
+
+ I have used object-oriented programming (OOP) principles in this code. Here are some aspects of OOP present in my code:
+
+Classes: I have defined a class called ImageFilterApp that extends JFrame. This class represents my main application window and encapsulates the functionality and behavior of the image filter application.
+
+Encapsulation: The ImageFilterApp class encapsulates the logic and functionality related to the image filter application. It contains methods for applying different filters, capturing and saving images, and sharing images. It also encapsulates the GUI components, such as buttons and labels, within the class.
+
+Inheritance: The ImageFilterApp class extends the JFrame class, which is provided by Swing library. By inheriting from JFrame, I inherit its properties and behaviors, and I can customize and add additional functionality specific to my image filter application.
+
+Event-driven programming: I have used event listeners to handle button clicks and perform actions accordingly. For example, the ActionListener interfaces are implemented to handle button clicks for applying filters, capturing images, saving images, and sharing images.
+
+Object instantiation and method calls: I have created instances of classes such as Webcam, JFileChooser, BufferedImage, and JOptionPane to perform various operations. I call methods on these objects to interact with them and achieve the desired functionality.
